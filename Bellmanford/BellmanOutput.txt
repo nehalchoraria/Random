@@ -1,0 +1,120 @@
+For node 0
+Shortest distance to 0.0 is 0.0
+Shortest distance to 1.0 is 2.0
+Shortest distance to 2.0 is 1.0
+Shortest distance to 3.0 is 4.0
+Shortest distance to 4.0 is 2.0
+Shortest distance to 5.0 is 3.0
+Shortest distance to 6.0 is 1.0
+Shortest distance to 7.0 is 5.0
+Shortest distance to 8.0 is 2.0
+Shortest distance to 9.0 is 3.0
+
+For node 1
+Shortest distance to 0.0 is 4.0
+Shortest distance to 1.0 is 0.0
+Shortest distance to 2.0 is 5.0
+Shortest distance to 3.0 is 4.0
+Shortest distance to 4.0 is 4.0
+Shortest distance to 5.0 is 6.0
+Shortest distance to 6.0 is 2.0
+Shortest distance to 7.0 is 5.0
+Shortest distance to 8.0 is 6.0
+Shortest distance to 9.0 is 3.0
+
+For node 2
+Shortest distance to 0.0 is 3.0
+Shortest distance to 1.0 is 2.0
+Shortest distance to 2.0 is 0.0
+Shortest distance to 3.0 is 3.0
+Shortest distance to 4.0 is 1.0
+Shortest distance to 5.0 is 2.0
+Shortest distance to 6.0 is 2.0
+Shortest distance to 7.0 is 4.0
+Shortest distance to 8.0 is 1.0
+Shortest distance to 9.0 is 2.0
+
+For node 3
+Shortest distance to 0.0 is 4.0
+Shortest distance to 1.0 is 6.0
+Shortest distance to 2.0 is 5.0
+Shortest distance to 3.0 is 0.0
+Shortest distance to 4.0 is 2.0
+Shortest distance to 5.0 is 3.0
+Shortest distance to 6.0 is 4.0
+Shortest distance to 7.0 is 1.0
+Shortest distance to 8.0 is 2.0
+Shortest distance to 9.0 is 2.0
+
+For node 4
+Shortest distance to 0.0 is 3.0
+Shortest distance to 1.0 is 5.0
+Shortest distance to 2.0 is 4.0
+Shortest distance to 3.0 is 2.0
+Shortest distance to 4.0 is 0.0
+Shortest distance to 5.0 is 5.0
+Shortest distance to 6.0 is 4.0
+Shortest distance to 7.0 is 3.0
+Shortest distance to 8.0 is 4.0
+Shortest distance to 9.0 is 1.0
+
+For node 5
+Shortest distance to 0.0 is 1.0
+Shortest distance to 1.0 is 3.0
+Shortest distance to 2.0 is 2.0
+Shortest distance to 3.0 is 5.0
+Shortest distance to 4.0 is 3.0
+Shortest distance to 5.0 is 0.0
+Shortest distance to 6.0 is 2.0
+Shortest distance to 7.0 is 2.0
+Shortest distance to 8.0 is 3.0
+Shortest distance to 9.0 is 4.0
+
+For node 6
+Shortest distance to 0.0 is 4.0
+Shortest distance to 1.0 is 6.0
+Shortest distance to 2.0 is 5.0
+Shortest distance to 3.0 is 4.0
+Shortest distance to 4.0 is 2.0
+Shortest distance to 5.0 is 4.0
+Shortest distance to 6.0 is 0.0
+Shortest distance to 7.0 is 5.0
+Shortest distance to 8.0 is 4.0
+Shortest distance to 9.0 is 3.0
+
+For node 7
+Shortest distance to 0.0 is 3.0
+Shortest distance to 1.0 is 5.0
+Shortest distance to 2.0 is 4.0
+Shortest distance to 3.0 is 3.0
+Shortest distance to 4.0 is 3.0
+Shortest distance to 5.0 is 2.0
+Shortest distance to 6.0 is 3.0
+Shortest distance to 7.0 is 0.0
+Shortest distance to 8.0 is 1.0
+Shortest distance to 9.0 is 4.0
+
+For node 8
+Shortest distance to 0.0 is 2.0
+Shortest distance to 1.0 is 4.0
+Shortest distance to 2.0 is 3.0
+Shortest distance to 3.0 is 2.0
+Shortest distance to 4.0 is 4.0
+Shortest distance to 5.0 is 1.0
+Shortest distance to 6.0 is 3.0
+Shortest distance to 7.0 is 3.0
+Shortest distance to 8.0 is 0.0
+Shortest distance to 9.0 is 4.0
+
+For node 9
+Shortest distance to 0.0 is 4.0
+Shortest distance to 1.0 is 6.0
+Shortest distance to 2.0 is 5.0
+Shortest distance to 3.0 is 1.0
+Shortest distance to 4.0 is 2.0
+Shortest distance to 5.0 is 4.0
+Shortest distance to 6.0 is 5.0
+Shortest distance to 7.0 is 2.0
+Shortest distance to 8.0 is 3.0
+Shortest distance to 9.0 is 0.0
+
